@@ -101,6 +101,11 @@ Whether you're a casual investor or a professional trader, this assistant makes 
 * ⬜ Mobile app with QR wallet scanning
 
 ---
+## 🧩 SEO
+
+SEO: AI Crypto Tax Assistant, AI Crypto Tax Calculator, Crypto Tax Manager, Cryptocurrency Tax Tool, Crypto Tax Automation, DeFi Tax Assistant, NFT Tax Tracker, Staking Tax Calculator, Capital Gains Tracker, Crypto Tax Reporting Bot, Multi-Jurisdiction Crypto Tax, IRS Crypto Tax, EU Crypto Tax, Crypto Tax Optimization, Real-Time Tax Alerts, Crypto Tax Dashboard, Automated Crypto Tax Filing, Crypto Portfolio Tax Manager, Crypto Tax Compliance Engine, Crypto Tax Forecasting
+
+---
 
 ## 📄 License
 
