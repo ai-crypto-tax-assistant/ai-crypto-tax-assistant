@@ -1,0 +1,11 @@
+{
+  "jurisdiction": "USA",
+  "fiat_currency": "USD",
+  "exchanges": {
+    "binance": {"api_key": "YOUR_KEY", "api_secret": "YOUR_SECRET"},
+    "coinbase": {"api_key": "YOUR_KEY", "api_secret": "YOUR_SECRET"}
+  },
+  "wallets": ["metamask", "ledger"],
+  "nft_marketplaces": ["opensea"],
+  "notify_email": "youremail@example.com"
+}
