@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+matplotlib
+plotly
+pdfkit
+reportlab
+python-dotenv
+websocket-client
