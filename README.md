@@ -35,9 +35,10 @@ Whether you're a casual investor or a professional trader, this assistant makes 
 - Generates **IRS-compliant forms** for USA: Form 8949, Schedule D, and 1040 summaries.  
 - Produces **EU-ready PDF/CSV reports** for local tax authorities.  
 - Detailed, line-by-line transaction history for auditing or bookkeeping.
-
-![](assets/form8949)![](assets/ScheduleD.png)
-
+<div align="left">
+    <img width="400" alt="AI Crypto Tax Assistant." src="assets/form8949.png" />
+    <img width="400" alt="AI Crypto Tax Assistant." src="assets/ScheduleD.png" />
+</div>
 
 ### **5. Advanced Tax Optimization**
 - Suggests **holding periods** to reduce short-term gains.  
