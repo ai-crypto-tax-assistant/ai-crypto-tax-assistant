@@ -2,6 +2,12 @@
 
 **AI Crypto Tax Assistant** is an intelligent, fully automated cryptocurrency tax management tool designed for traders and investors in **the USA and Europe**. It tracks, calculates, and reports your crypto gains, losses, staking rewards, DeFi earnings, NFT transactions, and airdrops with full compliance to local tax regulations.  
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="AI Crypto Tax Assistant." src="assets/tax.png" />
+  </a>
+</div>
+
 Whether you're a casual investor or a professional trader, this assistant makes crypto taxation effortless, accurate, and fully optimized.
 
 ---
@@ -29,6 +35,9 @@ Whether you're a casual investor or a professional trader, this assistant makes 
 - Generates **IRS-compliant forms** for USA: Form 8949, Schedule D, and 1040 summaries.  
 - Produces **EU-ready PDF/CSV reports** for local tax authorities.  
 - Detailed, line-by-line transaction history for auditing or bookkeeping.
+
+![](assets/form8949)![](assets/ScheduleD.png)
+
 
 ### **5. Advanced Tax Optimization**
 - Suggests **holding periods** to reduce short-term gains.  
